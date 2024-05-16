@@ -1,0 +1,1 @@
+# mini-news-core-php-mysql
